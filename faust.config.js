@@ -10,3 +10,4 @@ export default setConfig({
   possibleTypes,
   usePersistedQueries: true,
 });
+ 
