@@ -11,7 +11,8 @@
     "codegen": "graphql-codegen",
     "watch-codegen": "graphql-codegen -w",
     "wc": "graphql-codegen -w",
-    "tsc": "tsc"
+    "tsc": "tsc",
+    "postinstall": "prisma generate"
   },
   "prettier": "@epic-web/config/prettier",
   "dependencies": {
